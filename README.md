@@ -54,4 +54,6 @@
     2. Question 2
     3. Question 3
 
+### Note: If you feel, particular resource is good for learning. Add learning resource/blog/research paper link in front on question
+
 ⭐ If this roadmap helps you, consider starring the repository.
