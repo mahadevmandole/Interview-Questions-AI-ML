@@ -15,8 +15,10 @@
 ### Create file name in format below
   - Google_SDE1_1.md
   - Google_SDE1_2.md
+  - Microsoft_DataScientist_1.md
   - Microsoft_DataScientist_2.md
-  - Amazon_FrontendEngineer_1.md
+  - Amazon_MLEngineer_1.md
+  - Amazon_AIML__1.md
 
 ### File Content
 
